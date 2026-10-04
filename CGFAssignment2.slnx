@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Элементы решения/">
+    <File Path=".gitignore" />
+    <File Path="CMakeLists.txt" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="../part2/part2.vcxproj" Id="7f17ca60-af34-4e93-b272-e77186153075" />
+  <Project Path="CGFAssignment2.vcxproj" Id="50df10d5-b92b-4c16-9067-2b30837925c3" />
+</Solution>
